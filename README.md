@@ -11,15 +11,9 @@
     <img src="https://img.shields.io/badge/Email-Contact-6366F1" alt="Email" />
   </a>
 </div>
-
-<br/>
-
-
-
-## Hi there 👋
-
+<br>
 <h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
-<h3 align="center">A passionate developer and automation enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3>
 
 ## 👨‍💻 About Me
 
