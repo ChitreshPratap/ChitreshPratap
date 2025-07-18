@@ -59,19 +59,14 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 </div>
-
-<br/>
-
-
 <hr>
 ## 🏆 Achievements
-<hr>
 - 10+ years of experience in Automation development
 - Expertise in RPA (Robotic Process Automation) with Power Platform [Power Automation Desktop/Cloud and Power Apps]
 - Strong background in programming automation using VBA and Python.
 - Built and maintained enterprise-level applications
-<br/>
 <hr>
+
 <h3> 🤝 Connect With Me</h3>
 <div align="center">
   <a href="mailto:chitreshpratapsingh20@gmail.com">
