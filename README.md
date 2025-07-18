@@ -3,6 +3,56 @@
 <h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
 <h3 align="center">A passionate developer and automation enthusiast from India 🇮🇳</h3>
 
+## 👨‍💻 About Me
+
+I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ years of experience. I specialize in building robust automation buisness solution.
+
+- 🔭 Currently working on Automation development and RPA tools
+
+<br/>
+
+## 🛠️ Tech Stack
+
+
+
+
+<div align="center">
+
+### Languages & Core Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Visual_Basic_for_Applications-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="VBA" width="40" height="40"/>
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+### RPA Tools (No Code/Less Code Automation Tools)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Low%20Code%20App%20Builder-purple?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Flow-blue?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+### Backend & Database
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Microsoft-Dataverse-45b649?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+</div>
+
+<br/>
+
+
+<hr>
+## 🏆 Achievements
+<hr>
+- 10+ years of experience in Automation development
+- Expertise in RPA (Robotic Process Automation) with Power Platform [Power Automation Desktop/Cloud and Power Apps]
+- Strong background in programming automation using VBA and Python.
+- Built and maintained enterprise-level applications
+<br/>
 <hr>
 <h3> 🤝 Connect With Me</h3>
 <div align="center">
@@ -13,7 +63,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
 <!--
 **ChitreshPratap/ChitreshPratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
