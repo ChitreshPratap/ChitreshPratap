@@ -19,7 +19,7 @@
 
 I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ years of experience. I specialize in building robust automation buisness solution.
 
-- 🔭 Currently working on Automation development and RPA tools
+- 🔭 Currently working on Power Platform Automation development and RPA tools
 
 <br/>
 
