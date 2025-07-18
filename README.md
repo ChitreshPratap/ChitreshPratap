@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-
+<h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
+<h3 align="center">A passionate developer and automation enthusiast from India 🇮🇳</h3>
 <!--
 **ChitreshPratap/ChitreshPratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
