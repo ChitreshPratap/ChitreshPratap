@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;Automation+(RPA)+Developer;VBA+Python+Power Shell;Power+Platform+Power+Apps+Power+Automate+Desktop+and+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Chitresh+Pratap+Singh+Rana;RPA+Automation+Developer;VBA+Python+Power+Shell;Power+Platform+Developer+Power+Automate+Power+App" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <a href="https://github.com/chitreshpratap">
   </a>
