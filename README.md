@@ -1,3 +1,22 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;Automation+(RPA)+Developer;VBA+Python+Power Shell;Power+Platform+Power+Apps+Power+Automate+Desktop+and+Cloud" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/chitreshpratap">
+  </a>
+  <img src="https://img.shields.io/badge/Website-Portfolio-6366F1" alt="Visit Chitresh Pratap Singh's Portfolio Website - RPA Automation Developer" />
+</a>
+
+  <a href="mailto:chitreshpratapsingh20@gmail.com" >
+    <img src="https://img.shields.io/badge/Email-Contact-6366F1" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+
+
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
