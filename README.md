@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;RPA+Automation+Developer;VBA+Python+Power+Shell;Power+Platform+Developer+Power+Automate+Power+App" alt="Typing SVG" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;RPA+Automation+Developer;Python+%26+VBA+Specialist;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />
   
 </div>
 <div align="center">
