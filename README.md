@@ -1,7 +1,9 @@
-
+<h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Nice to see you.</h3>
+<h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
 </div>
 <div align="center">
   <a href="https://github.com/chitreshpratap">
@@ -14,8 +16,6 @@
   </a>
 </div>
 <br>
-<h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
-<h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3>
 
 ## 👨‍💻 About Me
 
@@ -50,6 +50,8 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Dataverse](https://img.shields.io/badge/Microsoft-Dataverse-45b649?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
 
 ### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
