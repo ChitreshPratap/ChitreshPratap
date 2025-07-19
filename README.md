@@ -1,6 +1,11 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Chitresh Pratap Singh</h1>
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Nice to see you.</h3>
-<h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3>
+<I><h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3></I>
+
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Nice to see you.</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
@@ -36,13 +41,14 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![VBA](https://img.shields.io/badge/VBA-Visual_Basic_for_Applications-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="VBA" width="40" height="40"/>
-![PowerShell](https://img.shields.io/badge/Power_Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Power_Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=green)
 
 
 ### RPA Tools (No Code/Less Code Automation Tools)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-Low%20Code%20App%20Builder-purple?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-Flow-blue?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerApps](https://img.shields.io/badge/Power%20Apps-Low%20Code%20App%20Builder-purple?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate%20Desktop-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate%20Cloud-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 ### Backend & Database
@@ -50,7 +56,6 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Dataverse](https://img.shields.io/badge/Microsoft-Dataverse-45b649?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 
 ### DevOps & Cloud
@@ -58,13 +63,6 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 </div>
 <hr>
-## 🏆 Achievements
-- 10+ years of experience in Automation development
-- Expertise in RPA (Robotic Process Automation) with Power Platform [Power Automation Desktop/Cloud and Power Apps]
-- Strong background in programming automation using VBA and Python.
-- Built and maintained enterprise-level applications
-<hr>
-
 <h3> 🤝 Connect With Me</h3>
 <div align="center">
   <a href="mailto:chitreshpratapsingh20@gmail.com">
@@ -78,18 +76,3 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
-<!--
-**ChitreshPratap/ChitreshPratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
