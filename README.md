@@ -36,7 +36,7 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Visual_Basic_for_Applications-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="VBA" width="40" height="40"/>
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Power_Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
 ### RPA Tools (No Code/Less Code Automation Tools)
