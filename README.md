@@ -32,17 +32,14 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 
 ## 🛠️ Tech Stack
 
-
-
-
 <div align="center">
 
 ### Languages & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![VBA](https://img.shields.io/badge/VBA-Visual_Basic_for_Applications-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="VBA" width="40" height="40"/>
 ![PowerShell](https://img.shields.io/badge/Power_Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=green)
-
+![SAP](https://img.shields.io/badge/SAP_Automation-orange?style=for-the-badge&logo=sap&logoColor=white)
+![selenium](https://img.shields.io/badge/Selenium-Web_Automation-cyan?style=for-the-badge&logo=selenium&logoColor=green)
 
 ### RPA Tools (No Code/Less Code Automation Tools)
 ![PowerApps](https://img.shields.io/badge/Power%20Apps-Low%20Code%20App%20Builder-purple?style=for-the-badge&logo=microsoft&logoColor=white)
