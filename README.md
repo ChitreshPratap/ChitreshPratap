@@ -3,11 +3,7 @@
 <h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3>
 
 <div align="center">
-<<<<<<< Updated upstream
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
-=======
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
->>>>>>> Stashed changes
 </div>
 <div align="center">
   <a href="https://github.com/chitreshpratap">
