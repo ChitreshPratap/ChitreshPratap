@@ -3,7 +3,11 @@
 <h3 align="center">A passionate RPA Automation developer and technical enthusiast.</h3>
 
 <div align="center">
+<<<<<<< Updated upstream
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
+=======
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chitresh+Pratap+Singh;RPA+Automation+Developer;Python%2C+VBA+%26+Power+Shell;Power+Platform+Developer;Power+Automate+%7C+Power+Apps" alt="Typing SVG" />  
+>>>>>>> Stashed changes
 </div>
 <div align="center">
   <a href="https://github.com/chitreshpratap">
@@ -33,7 +37,7 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 <div align="center">
 
 ### Languages & Core Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![VBA](https://img.shields.io/badge/VBA-Visual_Basic_for_Applications-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="VBA" width="40" height="40"/>
 ![PowerShell](https://img.shields.io/badge/Power_Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
