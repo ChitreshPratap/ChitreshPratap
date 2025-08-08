@@ -22,7 +22,7 @@
 </div>
 <br>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ years of experience. I specialize in building robust automation buisness solution.
 
@@ -30,7 +30,7 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 
 <br/>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -59,8 +59,9 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 </div>
-<hr>
-<h3> 🤝 Connect With Me</h3>
+
+
+# 🤝 Connect With Me
 <div align="center">
   <a href="mailto:chitreshpratapsingh20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -69,7 +70,15 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
----
+<hr>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ChitreshPratap&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChitreshPratap&theme=light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitreshPratap&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
